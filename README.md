@@ -10,7 +10,7 @@
 
 - Node.js 
 
-- A webbrowser
+- A Web Browser
 
 To startup the server run
 
