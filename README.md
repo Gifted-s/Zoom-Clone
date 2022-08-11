@@ -2,7 +2,7 @@
 
 
 
-## This App was built to enable individuals have a video chat rathr than the normal vdeo call app
+## This App was built to enable individuals have a real time video communication
 
 ### Requirement
 
